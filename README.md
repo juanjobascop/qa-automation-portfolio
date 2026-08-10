@@ -27,7 +27,7 @@ This repository applies those same framework-design principles in **Playwright +
 TypeScript** to show clean, maintainable automation on a modern stack.
 
 **Trilingual:** Spanish (native) · English (bilingual) · French (professional working)
-📫 [j.bascope@outlook.com](mailto:j.bascope@outlook.com)
+💼 [LinkedIn](https://www.linkedin.com/in/juanjosebascope/)
 
 ---
 
