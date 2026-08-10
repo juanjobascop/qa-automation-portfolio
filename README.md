@@ -13,6 +13,24 @@ and run it in minutes.
 
 ---
 
+## 👋 About me
+
+I'm **Juan Jose Bascope Castro**, a Manual & Automation QA Engineer and QA Lead
+based in Santa Cruz de la Sierra, Bolivia, with **4+ years** of end-to-end
+testing experience across web and mobile. Day to day I build scalable automation
+frameworks (Cypress / JavaScript, Page Object Model), safeguard **SQL data
+integrity**, and lead iOS mobile validation — currently as QA Engineer at Tutator.
+I work across the full SDLC (functional, regression, acceptance, and exploratory
+testing) in Agile teams, with tools like Zephyr, ClickUp, and JIRA.
+
+This repository applies those same framework-design principles in **Playwright +
+TypeScript** to show clean, maintainable automation on a modern stack.
+
+**Trilingual:** Spanish (native) · English (bilingual) · French (professional working)
+📫 [j.bascope@outlook.com](mailto:j.bascope@outlook.com)
+
+---
+
 ## What this demonstrates
 
 | Skill | Where to look |
