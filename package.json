@@ -22,7 +22,7 @@
     "api-testing",
     "page-object-model"
   ],
-  "author": "Juanjo",
+  "author": "Juan Jose Bascope Castro",
   "license": "MIT",
   "devDependencies": {
     "@playwright/test": "^1.48.0",

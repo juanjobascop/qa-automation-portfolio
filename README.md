@@ -6,6 +6,7 @@ and TypeScript. The suite is written the way a real QA framework is: a clean
 folder structure — targeting stable public demo applications so anyone can clone
 and run it in minutes.
 
+[![Playwright Tests](https://github.com/juanjobascop/qa-automation-portfolio/actions/workflows/playwright.yml/badge.svg)](https://github.com/juanjobascop/qa-automation-portfolio/actions/workflows/playwright.yml)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?logo=node.js&logoColor=white)
